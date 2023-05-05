@@ -1,0 +1,8 @@
+copy_files_to_s3.ksh Started...: Wed Apr 26 12:27:36 UTC 2023
+Completed 149.8 KiB/149.8 KiB (65.5 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-79afbebc-f0da-4e92-b0ec-6f673a409e11-c000.json.bz2 to s3://prescriberpipeline/dimension_city/2023-04-26-12-27-36/part-00000-79afbebc-f0da-4e92-b0ec-6f673a409e11-c000.json.bz2
+City File /home/rizki_hidayat_ak1/PrescriberPipeline/main/src/python/output/dimension_city/part-00000-79afbebc-f0da-4e92-b0ec-6f673a409e11-c000.json.bz2 is pushed to S3.
+Completed 5.3 KiB/5.3 KiB (3.2 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00000-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc to s3://prescriberpipeline/presc/2023-04-26-12-27-36/part-00000-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc
+Presc file /home/rizki_hidayat_ak1/PrescriberPipeline/main/src/python/output/presc/part-00000-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc is pushed to s3.
+Completed 5.7 KiB/5.7 KiB (3.3 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00001-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc to s3://prescriberpipeline/presc/2023-04-26-12-27-36/part-00001-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc
+Presc file /home/rizki_hidayat_ak1/PrescriberPipeline/main/src/python/output/presc/part-00001-ff5dc074-47a9-4066-93b8-6ce217b5d61f-c000.snappy.orc is pushed to s3.
+The copy_files_to_s3.ksh is Completed...: Wed Apr 26 12:27:46 UTC 2023

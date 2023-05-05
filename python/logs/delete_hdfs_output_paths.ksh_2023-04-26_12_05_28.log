@@ -1,0 +1,14 @@
+delete_hdfs_output_paths.ksh Started...: Wed Apr 26 12:05:28 UTC 2023
+The HDFS output directory PrescPipeline/output/dimension_city is available. Proceed to delete.
+Deleted PrescPipeline/output/dimension_city
+The HDFS Output directory PrescPipeline/output/dimension_city is deleted before extraction !!! \n\n
+The HDFS output directory PrescPipeline/output/presc is available. Proceed to delete.
+Deleted PrescPipeline/output/presc
+The HDFS Output directory PrescPipeline/output/presc is deleted before extraction !!! \n\n
+The HDFS output directory /user/hive/warehouse/prescpipeline.db/df_city_final is available. Proceed to delete.Deleted /user/hive/warehouse/prescpipeline.db/df_city_final
+The HDFS Output directory /user/hive/warehouse/prescpipeline.db/df_city_final is deleted for Hive !!! 
+
+ The HDFS output directory /user/hive/warehouse/prescpipeline.db/df_presc_final is available. Proceed to delete.Deleted /user/hive/warehouse/prescpipeline.db/df_presc_final
+The HDFS Output directory /user/hive/warehouse/prescpipeline.db/df_presc_final is deleted for Hive !!! 
+
+ delete_hdfs_output_paths.ksh is Completed...: Wed Apr 26 12:05:57 UTC 2023
